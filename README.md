@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DinhKietVy</h1>
 <h3 align="center">steam: https://steamcommunity.com/id/DinhVy2k3/</h3>
-<image align= "right" alt = "Coding" width="400" src="https://iconscout.com/lottie-animation/programmer-4375641">
+<image align= "right" alt = "Coding" width="400" src="[https://iconscout.com/lottie-animation/programmer-4375641](https://github.com/rudrabarad/Gifs)">
 
 - 🌱 I’m currently learning **embedded**
 
